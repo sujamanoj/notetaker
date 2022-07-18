@@ -27,10 +27,6 @@ Link to the <a href='https://www.google.com/search?q=Open+license'>Open license<
 
 Suja Manoj
 
-## link
-
-https://powerful-fortress-92581.herokuapp.com/
-
 ## Questions
 
 If you're stuck or having problems with the application, refer to the express.js documentation or<br />
