@@ -34,6 +34,6 @@ https://powerful-fortress-92581.herokuapp.com/
 ## Questions
 
 If you're stuck or having problems with the application, refer to the express.js documentation or<br />
-✉️ Email me with any questions: joelabankwah15@gmail.com<br /><br />
+✉️ Email me with any questions: suja@masstv.app<br /><br />
 GitHub: [SujaManoj](https://github.com/sujamanoj)<br />
 <br />
